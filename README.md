@@ -59,6 +59,7 @@
 - [LangGraph Chat UI](https://github.com/langchain-ai/langgraph/tree/main/examples/chat) – Example UIs for agent interactions.
 - [SmolAgents Starter Projects](https://github.com/samwit/smolagents_examples) – Multi-agent demo apps.
 - [CrewAI Quickstarts](https://github.com/crewai-inc/crewai-quickstarts) – Example dashboards and templates.
+- [harness-starter-kit](https://github.com/baskduf/harness-starter-kit) – Prompt-first starter kit for adding durable agent instructions, knowledge stores, feedback loops, and drift checks to software projects.
 
 ## Examples
 
