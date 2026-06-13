@@ -52,6 +52,7 @@
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
+- [Hivekeep](https://github.com/MarlBurroW/hivekeep) – Self-hosted platform to run a team of specialized AI agents with persistent memory, a web UI, and multi-channel access (Telegram, Slack, Discord, Matrix); agents build their own tools, mini-apps, and plugins.
 
 ## Starter Kits
 
