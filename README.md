@@ -35,6 +35,7 @@
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
+- [rust-norion](https://github.com/yanghao1143/rust-norion) – Rust prototype for AI runtime-control boundaries with routing, memory gates, evidence checks, rollback, and audit traces.
 
 ## Multi-Agent Orchestration
 
