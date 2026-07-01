@@ -52,6 +52,7 @@
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) – Hermes Agent plugin for X/Twitter research, reads, and approval-gated actions.
 
 ## Starter Kits
 
