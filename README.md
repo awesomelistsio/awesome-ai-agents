@@ -29,6 +29,7 @@
 - [CrewAI](https://github.com/crewai-inc/crewai) – Multi-agent “crews” that collaborate to complete tasks.
 - [SmolAgents](https://github.com/huggingface/smolagents) – Minimal agent framework that “thinks in code.”
 - [Agno](https://github.com/agno-agi/agno) – Multi-agent runtime and AgentOS for secure and production-ready systems.
+- [Hephaestus](https://github.com/agentlas-ai/Hephaestus) – Local-first runtime for packaging, routing, and governing coding agents across Claude Code, Codex, and Cursor.
 - [Phidata](https://github.com/phidatahq/phidata) – Tools and frameworks for multimodal, tool-using agents and teams.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) – Type-safe agent definitions with Pydantic models.
 - [Rasa](https://github.com/RasaHQ/rasa) – Conversational agent framework with NLU and dialogue management.
