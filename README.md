@@ -49,6 +49,7 @@
 ## Platforms
 
 - [Agno AgentOS](https://www.agno.com/) – Hosted and self-hosted agent operating system.
+- [ToolMagpie](https://toolmagpie.com) - Live-verified directory of AI agents (customer service, sales, coding, no-code builders, MCP servers, automation) that auto-flags dead tools, with side-by-side comparisons and honest pricing.
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
