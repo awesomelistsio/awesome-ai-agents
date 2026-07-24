@@ -24,6 +24,7 @@
 - [AG2 (AutoGen)](https://github.com/ag2ai/ag2) – Multi-agent conversational framework with tool use and human-in-the-loop workflows.
 - [LangChain](https://github.com/langchain-ai/langchain) – Framework for LLM apps with agents, tools, memory, and planning.
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Build stateful agents and graph-based agent workflows.
+- [OpenAgentFlow](https://github.com/OpenAgentFlow/openagentflow) – Human-readable specification language (`.oaf`) and compiler for defining multi-agent workflows.
 - [LlamaIndex Agents](https://github.com/run-llama/llama_index) – Data-centric framework with retrieval-heavy agent workflows.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) – Microsoft’s orchestration framework with planners and connectors.
 - [CrewAI](https://github.com/crewai-inc/crewai) – Multi-agent “crews” that collaborate to complete tasks.
