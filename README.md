@@ -52,6 +52,7 @@
 - [Microsoft Agent Framework](https://www.microsoft.com/en-us/research/project/autogen/) – Enterprise agent stack around AutoGen/AG2.
 - [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) – Managed platform for search, conversation, and tool-using agents.
 - [Botpress Cloud](https://botpress.com/) – Hosted agent creation and deployment platform.
+- [Orkas](https://github.com/Orkas-AI/Orkas) – Open-source, local-first desktop application where a Commander coordinates specialist agents through one chat.
 
 ## Starter Kits
 
