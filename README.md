@@ -35,6 +35,7 @@
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) – Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with 56 built-in tools, MCP support, and a layered memory system; currently a developer preview.
 
 ## Multi-Agent Orchestration
 
