@@ -1,4 +1,4 @@
-# Awesome AI Agents [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome AI Agents [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -21,7 +21,7 @@
 
 ## Frameworks
 
-- [AIWG](https://github.com/jmagly/aiwg) – Deploys project-owned agents, skills, context, and governed workflows across coding platforms.
+- [AIWG](https://github.com/jmagly/aiwg) – Multi-agent framework for deploying and orchestrating project-owned agents, skills, context, rules, and governed workflows across AI coding platforms.
 - [AG2 (AutoGen)](https://github.com/ag2ai/ag2) – Multi-agent conversational framework with tool use and human-in-the-loop workflows.
 - [LangChain](https://github.com/langchain-ai/langchain) – Framework for LLM apps with agents, tools, memory, and planning.
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Build stateful agents and graph-based agent workflows.
@@ -79,10 +79,10 @@
 
 ## Related Awesome Lists
 
-- [Awesome AI](https://github.com/awesomelistsio/awesome-ai)
-- [Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure)
-- [Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers)
-- [Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)
+- [Awesome AI](https://github.com/brandonhimpfen/awesome-ai)
+- [Awesome AI Infrastructure](https://github.com/brandonhimpfen/awesome-ai-infrastructure)
+- [Awesome AI Research Papers](https://github.com/brandonhimpfen/awesome-ai-research-papers)
+- [Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)
 
 ## Contribute
 
