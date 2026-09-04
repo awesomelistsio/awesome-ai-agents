@@ -21,6 +21,7 @@
 
 ## Frameworks
 
+- [AIWG](https://github.com/jmagly/aiwg) – Deploys project-owned agents, skills, context, and governed workflows across coding platforms.
 - [AG2 (AutoGen)](https://github.com/ag2ai/ag2) – Multi-agent conversational framework with tool use and human-in-the-loop workflows.
 - [LangChain](https://github.com/langchain-ai/langchain) – Framework for LLM apps with agents, tools, memory, and planning.
 - [LangGraph](https://github.com/langchain-ai/langgraph) – Build stateful agents and graph-based agent workflows.
